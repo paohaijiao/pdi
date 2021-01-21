@@ -17,7 +17,7 @@
   </parent>
 
   <properties>
-    <jackson.version>2.5.4</jackson.version>
+    <jackson.version>2.12.1</jackson.version>
     <pentaho-object-tunnel.version>${project.version}</pentaho-object-tunnel.version>
     <slf4j-api.versions>1.7.7</slf4j-api.versions>
   </properties>
