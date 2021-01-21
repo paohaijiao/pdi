@@ -39,7 +39,7 @@
     <requirejs.version>2.2.0</requirejs.version>
     <dependency.javax.servlet-api.version>3.0.1</dependency.javax.servlet-api.version>
     <dependency.jackson.version>1.9.2</dependency.jackson.version>
-    <dependency.fasterxml.jackson.version>2.5.4</dependency.fasterxml.jackson.version>
+    <dependency.fasterxml.jackson.version>2.12.1</dependency.fasterxml.jackson.version>
     <dependency.javax.ws.rs-api.version>2.0</dependency.javax.ws.rs-api.version>
   </properties>
   <dependencyManagement>
